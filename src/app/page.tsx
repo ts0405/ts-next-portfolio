@@ -1,17 +1,11 @@
-import { 
-  Container, 
-  Title, 
-  Text, 
-  Button, 
-  Stack,
-  Box
-} from '@mantine/core'
-import { IconCornerDownLeftDouble } from '@tabler/icons-react'
+import ParticleBackground from "../components/ParticleBackground";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
-    <section className="">
-      
-    </section>
+    <> 
+      <ParticleBackground />
+      <Footer />
+    </>
   );
 }

@@ -1,6 +1,6 @@
 # TSPortfolio
 
-Next.js 13 を使用したTSのポートフォリオサイト。  
+Next.jsを使用したTSのポートフォリオサイト。  
 Mantine、Tailwind、Tabler Icons、Lottie、Swiper,react-tsparticles
 
 ## 🔹 主な技術スタック
@@ -11,7 +11,6 @@ Mantine、Tailwind、Tabler Icons、Lottie、Swiper,react-tsparticles
 - **Tailwind CSS** - ユーティリティファースト CSS
 - **Tabler Icons** - アイコンライブラリ
 - **Swiper.js** - スライダー/カルーセル
-- **Lottie-react** - アニメーション
 - **react-tsparticles** - パーティクル表現
 - **PostCSS** - CSS ビルド設定
 - **Turbopack** - 開発サーバーとバンドラ
